@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Berikut beberapa Screenshot dari Aplikasi yang dibut:
+Berikut beberapa Screenshot dari Aplikasi yang dibuat:
 
 <img width='300' src="https://github.com/ZulfikarKN/test_pt_eoa/blob/main/screenshot/Capture.PNG">
 
